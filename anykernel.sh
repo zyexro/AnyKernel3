@@ -4,13 +4,16 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=yoka kernel by zyexro
+kernel.string=perf kernel by zyexro
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=blossom
+device.name2=angelica
+device.name3=dandelion
+device.name4=angelican
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
